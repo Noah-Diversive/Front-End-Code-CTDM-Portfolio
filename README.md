@@ -1,3 +1,3 @@
 # Front-End-Code-CTDM-Portfolio
 
- Hi, please click on the "Front-End Code Artifact.html" file I provided in the GitHub Files
+ Hi, this is my front-end code artifact for CTDM. please click on the ".html" file I provided in the GitHub Files
